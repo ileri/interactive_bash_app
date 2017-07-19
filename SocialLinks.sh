@@ -45,7 +45,7 @@ while true; do
       1\ *) tarayicida_ac "http://serhatcileri.com" ;;
       2\ *) tarayicida_ac "http://facebook.com/serhatcileri" ;;
       3\ *) tarayicida_ac "http://twitter.com/serhatcileri" ;;
-      4\ *) tarayicida_ac "http://github.com/celilileri" ;;
+      4\ *) tarayicida_ac "http://github.com/ileri" ;;
       5\ *) tarayicida_ac "http://linkedin.com/in/serhatcileri" ;;
       6\ *) tarayicida_ac "http://instagram.com/serhatcileri" ;;
       *) whiptail --msgbox "Beklenmedik bir seçenek seçildi!" 20 60 1 ;;
