@@ -33,7 +33,7 @@ while true; do
     "1 Kişisel Blog" "serhatcileri.com" \
     "2 Facebook Hesabı" "facebook.com/serhatcileri" \
     "3 Twitter Hesabı" "twitter.com/serhatcileri" \
-    "4 GitHub Hesabı" "github.com/celilileri" \
+    "4 GitHub Hesabı" "github.com/ileri" \
     "5 LinkedIn Hesabı" "linkedin.com/in/serhatcileri" \
     "6 Instagram" "instagram.com/serhatcileri" \
     3>&1 1>&2 2>&3)
